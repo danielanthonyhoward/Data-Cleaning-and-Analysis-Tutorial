@@ -1,0 +1,1 @@
+DeathTestingRatio = [Deaths] / CALCULATE(SUM(Kommune_testede_tidsserie[Tested]),FILTER(ALL(Kommune_testede_tidsserie),Kommune_testede_tidsserie[Date]=[Dato]))

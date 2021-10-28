@@ -1,0 +1,39 @@
+﻿ConsumerType_DE35,DE35_DA,DE35_UK,ConsumerType_DE4,DE4_DA,DE4_UK
+111,Lejligheder m.v. uden elvarme,"Apartments ans similar, without electric heating",100,Boliger,Residentail
+112,Lejligheder m.v. med elvarme,"Apartments, and similar, with electric heating",100,Boliger,Residentail
+119,Lejligheder m.v. fællesforbrug,"Apartments and similar, common usage",100,Boliger,Residentail
+121,"Parcel-, række- m.v. huse uden elvarme","Single Family Homes and similar, without electric heating",100,Boliger,Residentail
+122,"Parcel-, række- m.v. huse med elvarme","Single Family Homes and similar, with electric heating",100,Boliger,Residentail
+123,"Parcel-, række- m.v. huse med varmepumpe","Single Family Homes and similar, with heat pump",100,Boliger,Residentail
+130,Fritidshuse,Leisure homes,100,Boliger,Residentail
+211,Landbrug uden elvarme,Agriculture without electric heating,200,Landbrug og gartneri,Agriculture  and gardening
+212,Landbrug med elvarme,Agriculture with electric heating,200,Landbrug og gartneri,Agriculture  and gardening
+215,Vandingsanlæg (i landbrug),Irrigation system (in agriculture),200,Landbrug og gartneri,Agriculture  and gardening
+220,Gartneri,Gardening,200,Landbrug og gartneri,Agriculture  and gardening
+310,Nærings- og nydelsesmiddelindustri,Food and beverage industry,300,Fremstillingsvirksomhed (industri),Manufacturing (industry)
+320,"Tekstil-, beklædnings- og læderindustri","Textile, clothing and leather industry",300,Fremstillingsvirksomhed (industri),Manufacturing (industry)
+330,Træindustri,Wood industry,300,Fremstillingsvirksomhed (industri),Manufacturing (industry)
+340,Papir- og grafisk industri,Paper and graphic industry,300,Fremstillingsvirksomhed (industri),Manufacturing (industry)
+350,Kemisk industri,Chemical industry,300,Fremstillingsvirksomhed (industri),Manufacturing (industry)
+360,"Sten-, ler- og glasindustri","Stone, clay and glass industry",300,Fremstillingsvirksomhed (industri),Manufacturing (industry)
+370,Jern- og metalværker,Iron and metal works,300,Fremstillingsvirksomhed (industri),Manufacturing (industry)
+381,Støberier,Foundries,300,Fremstillingsvirksomhed (industri),Manufacturing (industry)
+382,Jern- og metalindustri i øvrigt,Iron and metal industry in general,300,Fremstillingsvirksomhed (industri),Manufacturing (industry)
+390,"Møbelindu., legetøjsfab., guld og sølv m.v.","Furniture window, Toys, Gold and silver etc.",300,Fremstillingsvirksomhed (industri),Manufacturing (industry)
+410,Bygge- og anlægsvirksomhed,Construction and civil engineering,400,"Handel, service, offentlige foretagender m.v. samt andre forbrugere","Trade, service, public enterprises etc. and other consumers"
+421,Detailhandel                                ,Retail,400,"Handel, service, offentlige foretagender m.v. samt andre forbrugere","Trade, service, public enterprises etc. and other consumers"
+422,Engroshandel og køle/frysehuse                 ,Wholesale and cold stores,400,"Handel, service, offentlige foretagender m.v. samt andre forbrugere","Trade, service, public enterprises etc. and other consumers"
+431,Restaurations- og hotelvirksomhed                       ,Restaurants and hotels,400,"Handel, service, offentlige foretagender m.v. samt andre forbrugere","Trade, service, public enterprises etc. and other consumers"
+432,Bank- og forsikringsvirks. samt forretningsservice         ,Banking and insurance activities. and business services,400,"Handel, service, offentlige foretagender m.v. samt andre forbrugere","Trade, service, public enterprises etc. and other consumers"
+433,Kulturelle aktiviteter og husholdningsservice           ,Cultural activities and household services,400,"Handel, service, offentlige foretagender m.v. samt andre forbrugere","Trade, service, public enterprises etc. and other consumers"
+441,"El-, gas-, varme- og vandforsyning                      ","Electricity, gas, heating and water supply",400,"Handel, service, offentlige foretagender m.v. samt andre forbrugere","Trade, service, public enterprises etc. and other consumers"
+442,Kloak- og renovationsvæsen samt rensningsanlæg          ,Sewage and refuse collection and treatment plant,400,"Handel, service, offentlige foretagender m.v. samt andre forbrugere","Trade, service, public enterprises etc. and other consumers"
+443,Undervisning og forskning                               ,Teaching and research,400,"Handel, service, offentlige foretagender m.v. samt andre forbrugere","Trade, service, public enterprises etc. and other consumers"
+444,Sundheds- og veterinærvæsen                             ,Health and veterinary services,400,"Handel, service, offentlige foretagender m.v. samt andre forbrugere","Trade, service, public enterprises etc. and other consumers"
+445,Sociale institutioner samt foreninger                   ,Social institutions and associations,400,"Handel, service, offentlige foretagender m.v. samt andre forbrugere","Trade, service, public enterprises etc. and other consumers"
+446,Postvæsen og telekommunikation                          ,Postal and telecommunications,400,"Handel, service, offentlige foretagender m.v. samt andre forbrugere","Trade, service, public enterprises etc. and other consumers"
+447,Offentlig administration                                ,Public administration,400,"Handel, service, offentlige foretagender m.v. samt andre forbrugere","Trade, service, public enterprises etc. and other consumers"
+450,Gade- og vejbelysning                       ,Street and road lighting,400,"Handel, service, offentlige foretagender m.v. samt andre forbrugere","Trade, service, public enterprises etc. and other consumers"
+461,Elektriske baner                      ,Electric paths,400,"Handel, service, offentlige foretagender m.v. samt andre forbrugere","Trade, service, public enterprises etc. and other consumers"
+462,Øvrig transport                ,Other transport,400,"Handel, service, offentlige foretagender m.v. samt andre forbrugere","Trade, service, public enterprises etc. and other consumers"
+999,Anonymiseret og/eller ukendt,Anonymized and / or unknown,999,Anonymiseret og/eller ukendt,anonymized and / or unknown
